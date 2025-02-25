@@ -9,3 +9,7 @@
 ---------------------
 ## Communication Networks:(most important ones)
 ### Modbus- 
+* Modbus RTU - Serial communication that uses a master slave architecture. For eg PLC (master) ---> Sensors(field devices/slaves). Uses Client-Server model.
+* Modbus TCP - Operates over Ehernet / IP networks to communicate over a network. It supports multiple devices easily. And it uses a Master-Slave communication
+### OPC (Open platform communication)
+* 
