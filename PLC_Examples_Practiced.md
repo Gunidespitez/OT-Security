@@ -16,6 +16,10 @@
        The PLC keeps Motor-1 OFF.
   * The gate remains closed, preventing entry.
   * For this we connect all inputs as Normally Closed inputs and sesnor is Normally open.
+![Screenshot from 2025-02-26 15-04-46](https://github.com/user-attachments/assets/3c275237-5e53-417b-a2d3-18ada125bde0)
+![Screenshot from 2025-02-26 15-04-54](https://github.com/user-attachments/assets/5f0327c4-9954-4f54-9846-833d888056b2)
+
+
 # Traffic Light System:
 ## Aim:
   * Red light turns on for 10 seconds
